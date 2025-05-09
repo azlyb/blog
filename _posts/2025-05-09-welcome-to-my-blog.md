@@ -1,3 +1,16 @@
+---
+title: "Welcome to My Blog"
+date: 2025-05-09
+categories: [General]
+author: nbasarian
+---
+
+Hey there 👋 — welcome to my personal blog at **nbasarian.com**!
+
+I'll be writing about tech, tools, personal projects, and whatever else I find interesting. This blog is built using [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) with the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme.
+
+Stay tuned for more posts — and thanks for stopping by!
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla velit magna, cursus quis vestibulum vitae, dapibus nec felis. Mauris sed magna nulla. Mauris luctus consequat mi, at consectetur magna bibendum vel. Suspendisse diam nibh, tempus vitae purus vel, scelerisque laoreet dolor. Donec varius commodo eros, pulvinar tempus augue sagittis eu. Sed eu accumsan odio. Donec nec justo sem.
 
 Vestibulum nec euismod elit. Pellentesque a ex quis nisl ultricies dictum quis nec ligula. Phasellus eros quam, viverra a scelerisque at, commodo in lacus. Curabitur non consequat ipsum, gravida aliquet mauris. Duis faucibus turpis et fermentum imperdiet. Nulla vulputate egestas fringilla. Suspendisse et est purus. Aliquam egestas ipsum ac risus porta bibendum. Vivamus ut enim quis ipsum tincidunt dictum. Aliquam erat volutpat. Integer vel viverra orci, in fermentum nunc. Curabitur placerat eleifend vestibulum.
